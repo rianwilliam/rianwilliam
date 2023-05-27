@@ -10,11 +10,20 @@
 
 <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianwilliam&layout=compact&bg_color=0d1117&text_color=efe5fb&title_color=99ccff&border_color=5e5397&card_width=680" />
-<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianwilliam" /> -->
     <img src="https://em-content.zobj.net/source/microsoft-teams/363/panda_1f43c.png" height=150/>
 </div>
 
+### Technologies used:
+
+<div style="display: inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width=30 height=30 />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width=30 height=30 />      
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=30 height=30 />      
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width=30 height=30 />      
+</div>
+    
 ### Social Media:
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)
+
