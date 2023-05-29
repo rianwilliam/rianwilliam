@@ -13,7 +13,7 @@
 
 <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianwilliam&layout=compact&bg_color=0d1117&text_color=efe5fb&title_color=99ccff&border_color=5e5397&card_width=680" alt="most used languages" />
-    <img src="https://em-content.zobj.net/source/microsoft-teams/363/panda_1f43c.png" alt="animated panda" height=150/>
+    <img src="https://em-content.zobj.net/source/microsoft-teams/363/panda_1f43c.png" alt="animated panda" height=150 align="right"/>
 </div>
 
 ### Technologies used:
