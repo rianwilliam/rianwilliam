@@ -9,7 +9,7 @@
     </h4>
 </div>
 
-<div style="width: 100%;">
+<div>
     <img src="https://github-readme-stats.vercel.app/api?username=rianwilliam&show_icons=true&theme=transparent&text_color=efe5fb&icon_color=99ccff&title_color=99ccff&border_color=5e5397&include_all_commits=true" />     
 </div>
 
