@@ -13,7 +13,7 @@
 </div>
 
 <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianwilliam&layout=compact&bg_color=0d1117&text_color=efe5fb&title_color=99ccff&border_color=5e5397&card_width=650" alt="most used languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianwilliam&layout=compact&bg_color=0d1117&text_color=efe5fb&title_color=99ccff&border_color=5e5397&card_width=1000" alt="most used languages" />
 </div>
 
 ### Technologies used:
