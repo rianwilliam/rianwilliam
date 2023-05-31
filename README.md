@@ -9,11 +9,10 @@
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=rianwilliam&show_icons=true&theme=transparent&text_color=efe5fb&icon_color=99ccff&title_color=99ccff&border_color=5e5397&include_all_commits=true&card_width=1000" />
-</div>
-
-<div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianwilliam&layout=compact&bg_color=0d1117&text_color=efe5fb&title_color=99ccff&border_color=5e5397&card_width=1000" alt="most used languages" />
+  <a href="https://github.com/rianwilliam/">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rianwilliam&show_icons=true&theme=transparent&text_color=efe5fb&icon_color=99ccff&title_color=99ccff&border_color=5e5397&include_all_commits=true" alt="Github_rian_stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianwilliam&layout=compact&bg_color=0d1117&text_color=efe5fb&title_color=99ccff&border_color=5e5397" alt="Used_languages"/>
+  </a>
 </div>
 
 ### Technologies used:
