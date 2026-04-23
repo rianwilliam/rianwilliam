@@ -40,4 +40,7 @@
     <a href="https://www.codewars.com/users/Rian%20William">
         <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars"/>
     </a>
+    <a href="https://tatsu-immortal.itch.io/">
+        <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/>
+    </a>
 </div>
